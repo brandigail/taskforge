@@ -2,7 +2,7 @@
 
 A Jira-style project workspace: Kanban boards you can drag cards around, sprint planning with story points, burndown and velocity charts, and an audit trail of every change, all gated by three roles that are enforced on the server.
 
-**Live demo:** TBD (built and tested locally, not yet deployed)
+**Live demo:** https://taskforge-678.netlify.app
 
 ![The board](docs/screenshots/board-desktop.png)
 
